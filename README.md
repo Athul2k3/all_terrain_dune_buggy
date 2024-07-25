@@ -1,2 +1,2 @@
 # all_terrain_dune_buggy
-SolidWorks Model
+This design was made using SolidWorks
